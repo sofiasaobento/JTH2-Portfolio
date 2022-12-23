@@ -1,6 +1,6 @@
 
 # Portfolio Jovenes Talentos
-## [LIVE DEMO](https://thelaucha.github.io/JTH2---Portfolio/)
+## [LIVE DEMO](https://thelaucha.github.io/JTH2-Portfolio/)
 
 ![Preview](./assets/vFinal.jpg)
 
